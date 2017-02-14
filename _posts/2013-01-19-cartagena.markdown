@@ -9,6 +9,4 @@ Před stoletími nazývaná Královna Indií (Reina de las Indias), bývala výz
 
 Já sem přijel zrovna v době, kdy tu vrcholila volba Miss Kolumbie, takže celé město žilo oslavami. Kromě nich jsme zvládli navštívit už jen zdejší trhy a nedalekou bahenní sopku.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='we9d6YMXH5pV1nrKA' %}

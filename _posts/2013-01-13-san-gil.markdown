@@ -11,6 +11,4 @@ Město samo o sobě je cílem hlavně pro adrenalinové šílence, protože v ob
 
 Odpoledne jsem okouknul blízké vodopády a večer už jsem zas seděl na terminálu a čekal na noční autobus abych se přesunul zpátky do Bogoty a konečně se pohnul zas o nějaký kus dál, na poslední zastávku před karibským pobřežím, sluncem a plážemi, do Medellínu.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='VaqW1RptJPZyihwP7' %}

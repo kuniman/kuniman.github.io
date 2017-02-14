@@ -19,6 +19,4 @@ No a pak už se konečně sešlo dohromady dost lidí, abychom mohli vyrazit na 
 
 Po návratu odtud jsem pak vyrazil na krátký relax do Semuc-Champey, kde místní atrakce zahrnují čvachtání se v přírodních jezírkách na řece a průzkum a proplavávání napůl zatopené jeskyně jen se svíčkami.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6150450038156204401?authkey=CKPymqHDw9-jCg
+{% include googlePhotosFotogallery.html galleryId='TKbzBkbEvkBQcwKY8' %}

@@ -7,6 +7,6 @@ categories: cestování
 
 V překladu “Starobylá Guatemala” je předchozí hlavní město Guatemaly. To současné se jmenuje jen Guatemala :).
 
-Tady je pár [fotek] z jejích ulic.
+Tady je pár fotek z jejích ulic.
 
-[fotek]: https://goo.gl/photos/NjyDcDEfvM9cX5Q18
+{% include googlePhotosFotogallery.html galleryId='NjyDcDEfvM9cX5Q18' %}

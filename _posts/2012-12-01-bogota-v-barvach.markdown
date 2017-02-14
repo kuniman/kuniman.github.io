@@ -15,6 +15,4 @@ Super zážitek také byl, když jsme se vetřeli na turistickou prohlídku měs
 
 Strávil tu týden a pak jsem vyrazil poněkud neplánovaným směrem, kousek zpátky na jih, do jedné eco joga vesnice.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='8DS8k3FTfnupprRQ8' %}

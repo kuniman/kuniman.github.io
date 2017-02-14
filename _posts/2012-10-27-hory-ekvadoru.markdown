@@ -17,6 +17,4 @@ Ráno jsem pak vyrazil k mé poslední zastávce v Ekvádoru, do města po celé
 
 V neděli jsme vyrazili na návštěvu další blízké laguny v kráteru vulkánu a pak už nezbylo než dát definitivně Ekvádoru sbohem a vydat se dál, do Kolumbie
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='UdBAL1uV5UmVtxhT6' %}

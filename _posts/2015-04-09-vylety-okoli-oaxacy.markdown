@@ -14,8 +14,6 @@ Další den jsme pak vyrazili na místní nejznámější pozůstatek po jedné 
 
 A nakonec pár fotek a video z mého třídenního pobíhání po Sierra Norte.
 
-[Fotogalerie]
-
 {% include youtubePlayer.html id=page.youtubeId %}
 
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6135556858502878577?authkey=CJL9xtzT6sKKvQE
+{% include googlePhotosFotogallery.html galleryId='RRSYPjSWmyWRpJra7' %}

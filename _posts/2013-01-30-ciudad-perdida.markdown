@@ -13,7 +13,6 @@ Následující den ráno nás pak vyzvedla teréní Toyotka, k naší skupince �
 
 Ale největším zážitkem z tohohle treku je určitě cesta samotná, to drápání se do strmých kopců, brodění se za tropického lijáku bahnem a různě překračování říček, které nám stály v cestě.
 
-[Fotogalerie]
+{% include googlePhotosFotogallery.html galleryId='xbJrvQP9wekcL2f59' %}
 
 [Ztracené město]: http://cs.wikipedia.org/wiki/Ztracen%C3%A9_m%C4%9Bsto
-[Fotogalerie]: https://github.com/mojombo/jekyll

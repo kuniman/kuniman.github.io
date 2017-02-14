@@ -9,6 +9,4 @@ Město věčného jara, jak ho místní přezdívají. Město na které mě mís
 
 Největším zážitkem tak asi byla návštěva ohromného monolitu nazývaného El Peňol nebo také La Piedra. Nedal jsem na varovná znamení, že zastávka La Piedra je dál než zastávka El Peňol a vystoupil v El Peňolu. A pak jsem si to v poledním vedru ťapal 12 kilometrů po silnici a sledoval, jak se monolit pomalu přibližuje. Aspoň že na startu prodávali zmrzlinu a v cíli čerstvé ovocné džusy.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='5KU3FrAMPEZoRMDY6' %}

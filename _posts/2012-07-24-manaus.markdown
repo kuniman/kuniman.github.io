@@ -23,6 +23,4 @@ Zítra mě čeká nalodění na další plovoucí potvoru (tentokrát asi už po
 
 K fotkám: prvních pár je ze zooparku v Belému, zbytek pak z cesty po Amazonce. Kluci na loďkách okukovali, zda jim někdo něco z lodi nehodí, je asi zvykem se tak zbavovat něpotřebného oblečení. Navigace v noci tu probíhala výhradně pomocí zkoumání břehů světlometem :).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='nmVw6vmQvTAq1qVT6' %}

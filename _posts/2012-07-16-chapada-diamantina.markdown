@@ -11,6 +11,4 @@ Už jsem se chtěl vzdát pohledu na nejvyšší vodopád Brazílie, když jsem 
 
 Po šesti dnech příjemných procházek a koupaček už ale nezbylo nic jiného, než si zas zabalit bágl a vyrazit na 57 hodinový maraton k ústí Amazonky, do Belému. Ale o tom zas příště …
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='Z8NFVDAvVrtKB8ph9' %}

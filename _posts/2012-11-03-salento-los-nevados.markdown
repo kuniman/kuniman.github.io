@@ -13,6 +13,4 @@ Přebalil jsem trochu bágl, nechal přebytečné věci bezpečně uložené v h
 
 Další den jsem to pak zas seběhl zpátky dolů, vypral zabahněné věci a o 24 hodin později už jsem zas seděl v autobuse, tentokrát s cílem hlavní město Kolumbie, Bogota.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='Sukck2AhV6ZYcyaF7' %}

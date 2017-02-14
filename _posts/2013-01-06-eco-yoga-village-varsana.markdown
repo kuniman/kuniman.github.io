@@ -15,6 +15,4 @@ Z ekologického zemědělství se vyklubalo plení záhonků a úklid zahrady, z
 
 Ale což. Bylo to jen na chvíli, zkusil jsem si jógu, kousek byla vesnička s výbornou horkou čokoládou a i jednu ranní výpravu za ztraceným vodopádem se mi podařilo úspěšně dokončit, potkat při ní pár sympatických místních a prolézt okolí doslova cestou necestou. Takže nakonec jediný kdo si po odjezdu stěžoval, byl můj žaludek a to mohlo být klidně i tím kuřetem, které jsme si dali hned v první restauraci co jsme našli na terminálu v Bogotě ;).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='eV6E1qWq5waGUm7K7' %}

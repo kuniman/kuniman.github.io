@@ -9,6 +9,4 @@ Pár fotek ze sobotní odpolední procházky po městě. Celkem jsem tady a v ok
 
 Oaxaca je v Mexiku známá jako město kultury a dobrého jídla a pití. Už když jsem se sem chystal, tak jsem dostal mnohá doporučení co vše ochutnat. Mezcal a místní omáčky se vyskytovali ve většině z nich. K omáčkám nemám zas tak moc co říct, snad jen to že je tu rozdělují je tu podle barev. O mezcalu jsme měli dlouhou přednášku v jedné jeho výrobně. Je to alkoholický nápoj vyráběný z agave, stejně jako tequila. Jediný rozdíl oproti tequile je, že může být vyroben z jakékoliv agave, ne jen z modré a kdekoliv, ne jen v mexické oblasti Tequila. Asi něco jako Bohemia Sekt a Champagne :).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6134296864290703601?authkey=CKKEwoSGgKfBrgE
+{% include googlePhotosFotogallery.html galleryId='9ZeHiTb9oWPpvhLr6' %}

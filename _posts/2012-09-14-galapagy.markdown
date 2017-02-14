@@ -11,6 +11,4 @@ Ubytovaní a dopravu zajišťoval luxusní katamaran, jídlo bylo výborné a v�
 
 No bylo to prostě intenzivní, fotky hromady zvířátek následují :).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='oRKen9wsL5WmRbQV6' %}

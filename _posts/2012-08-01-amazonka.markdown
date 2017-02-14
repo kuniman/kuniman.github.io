@@ -17,6 +17,4 @@ Zdravím a doufám že i v Česku je léto v plném proudu a vy si ho užíváte
 
 K fotkám: prvních pár je z Manausu a tamní divadlo Amazonas. Další už zas pak z cesty, ten pták co byl jako silueta v předcházející sadě fotek a tady je na zemi, není kupodivu slepice, ale nějaký druh supa, který je k vidění po celé Brazílii (nebo spíš všude v Brazílii, kde jsem se během téhle cesty pohyboval). Také jsem si zas vzpomněl a aktualizoval mapičku :).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='kzuJrz7i2JQCGCg87' %}

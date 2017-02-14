@@ -5,6 +5,4 @@ date:   2013-02-05 00:00:00
 categories: cestování
 ---
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='YZ1ZUfZR5QZ5dNJy6' %}

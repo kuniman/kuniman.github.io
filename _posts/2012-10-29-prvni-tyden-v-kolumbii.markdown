@@ -15,6 +15,4 @@ To se nakonec ukázalo jako dobrá volba, protože kromě toho že cesta tam a z
 
 Za dva dny jsme v klidu stačili shlédnout vše co okolí nabízelo a jelikož v Cali zrovna vrcholil festival salsy, přesunuli jsme se na víkend tam. Vystoupení byla zajímavá, ale bohužel plán okoukat kroky a pak je aplikovat v praxi moc nevyšel :)). Každopádně odrážka “tančit salsu v Cali” je odškrtnutá a po krátkém výletu do okolí pokračuji dál směrem na sever. Do oblasti kávy, do Salenta.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='icG3iLBX3iccAfXv9' %}

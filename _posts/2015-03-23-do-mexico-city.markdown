@@ -9,6 +9,4 @@ Jak už bylo vidět i na předchozím videu, pohyb po Yucatánském poloostrově
 
 Na fotkách je ještě docela dost budov, ale minulý týden jsem strávil procházením po hlavním městě, tak ty příští zas snad budou trochu zalidněnější.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6128142855858583281?authkey=COmYhPujzeGrWw
+{% include googlePhotosFotogallery.html galleryId='Z9tknDEWqJdTEdA69' %}

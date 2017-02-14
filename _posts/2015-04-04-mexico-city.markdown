@@ -13,6 +13,4 @@ Strávil jsem tam něco málo přes týden, proběhl snad to nejzajímavější 
 
 Pár fotek odtud následuje, některé mají i smysluplný popisek.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6131814183324491377?authkey=CIzzrqGC7JaXmgE
+{% include googlePhotosFotogallery.html galleryId='Ee5FHBU5TdoQwgF8A' %}

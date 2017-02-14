@@ -9,6 +9,4 @@ Po návratu z El Miradoru se s výlety roztrhl pytel a tak jsem v následující
 
 Pak už jsem měl zas na chvíli chození plné zuby, tak jsem se zas přesunul do historického města Antigua. Pár fotek odtud se tu určitě brzy objeví … :).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://goo.gl/photos/4H5LYoM6HaH4jFfRA
+{% include googlePhotosFotogallery.html galleryId='4H5LYoM6HaH4jFfRA' %}

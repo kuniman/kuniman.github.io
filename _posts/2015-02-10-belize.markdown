@@ -13,6 +13,4 @@ Když jsem i u dalších zajímavých míst v Belize nebyl moc schopen vymyslet 
 
 No a v neděli zas přišel čas zvednout kotvy a vyrazit znovu do Cancúnu. Na hranicích přesvědčit celníka, že vízum od 31.1. do 2.3. je fakt jen na 30 dní a ne na dva měsíce a voilà, jsem zpět v Mexiku.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6114054899426750529?authkey=CJr1upSAxdrmJQ
+{% include googlePhotosFotogallery.html galleryId='PH57pdgcE64odn549' %}

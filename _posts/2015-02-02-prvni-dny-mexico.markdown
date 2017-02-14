@@ -11,6 +11,4 @@ Dostalo se také na lehce obávanou mexickou kuchyni, ale naštěstí pálivé o
 
 Protože cestování po Yucatánu je v plánu až za cca dva týdny, tak jsem vyrazil z Tulumu dál na jih, směrem do Belize. Cestou jsem se zastavil v Chetumalu a tam mrknul do musea Mayů a podniknul malý autobusovo/pěšo/na korbě výlet k bývalému mayskému městu Kohunlich. To je oproti ruinám v Tulumu o dost hůře dostupné, takže jsem tam byl jen já a jedna skupinka turistů, co přijeli s průvodcem mikrobusem. A mohlo se tam lézt po pyramidách, takže si člověk užil i nějaké ty pohledy shora. Také se tam ukázalo, jak těžké asi bude hledat ztracená města v džungli, protože hned za posekaným trávníčkem se tyčila neprostupná stěna vegetace. Kolik toho asi museli vydolovat, vysekat a vykácet, než z toho udělali přístupnou památku?
 
-[Fotogalerie]
-
-[Fotogalerie]: https://plus.google.com/photos/102733220680313798172/albums/6111069785697507009?authkey=CIfJrrzCk6zN6AE
+{% include googlePhotosFotogallery.html galleryId='pkb6rMRAn6gohx4g8' %}

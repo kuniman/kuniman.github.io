@@ -9,6 +9,4 @@ V Hondurasu se nachází také jedno z nejjižnějších velkých mayských síd
 
 Kolem je docela hezký park a muzeum, ale hlavně tu mají dost, překvapivě velmi zachovalých, stel (kamenných sloupů, na kterých Mayové zachycovali textem a obrazem historické události).
 
-[Fotogalerie]
-
-[Fotogalerie]: https://goo.gl/photos/k13dBGnsFwFCJBEW9
+{% include googlePhotosFotogallery.html galleryId='k13dBGnsFwFCJBEW9' %}

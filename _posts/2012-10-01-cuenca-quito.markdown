@@ -11,6 +11,4 @@ Po dni kultury jsme vyrazili pro změnu do přírody a navštívili národní pa
 
 Za odměnu jsme se proto vydali navštívit nedělní trhy v okolních vesničkách, kde si někteří zakoupili autentický panamák, aby ho pak mohli po celý zbytek cesty nosit v ruce a povalovat v hotelech. Tím jsme také vyčerpali naše plány pro Cuencu a okolí a tak jsme s krátkou zastávkou v Latacunze vyrazili do našeho dalšího cíle, do hlaniho města Ekvádoru, do Quita.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='9u1p2Z1N5g2Y59iL6' %}

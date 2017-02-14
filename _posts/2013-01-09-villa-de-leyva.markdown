@@ -9,6 +9,4 @@ Kousek na sever od Bogoty leží další z průvodcem doporučovaných zastávek
 
 Kromě samotné vesnice jsou v blízkém okolí nějaké ty vrcholky hor, termální prameny, modrá jezírka, vodopády, indiánská místa a domek postavený z bahna. Něco z toho jsme navštívili, něco z navštíveného jsem nafotil.
 
-[Fotogalerie]
-
-[Fotogalerie]: https://github.com/mojombo/jekyll
+{% include googlePhotosFotogallery.html galleryId='SsQRQpcHSdD915m67' %}
