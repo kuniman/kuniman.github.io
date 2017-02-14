@@ -7,8 +7,8 @@ post_class: post-template
 
 <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
-        <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+        <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Zpět</a>
+        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">RSS</a>
     </nav>
 </header>
 
@@ -21,7 +21,7 @@ post_class: post-template
             <section class="post-meta">
                 <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                 {% if page.categories.size > 0 %}
-                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
+                    {{ page.categories | array_to_sentence_string | prepend: ' na téma ' }}
                 {% endif %}
             </section>
         </header>
@@ -62,7 +62,7 @@ post_class: post-template
 
         <footer class="post-footer">
             <!-- If we want to display author's name and bio -->
-            {% if site.author %}
+            {% if site.author_removeMe %}
                 <figure class="author-image">
                     <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/profile.png)">
                     <span class="hidden">{{site.author}}'s Picture</span></a>
@@ -77,8 +77,9 @@ post_class: post-template
                 </section>
             {% endif %}
 
-            <!-- Share links section -->
+            <!-- Share links section
             {% include share.html %}
+             -->
 
             <!-- Disqus comments -->
             {% if page.disqus %}
