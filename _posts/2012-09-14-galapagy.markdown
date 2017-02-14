@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Galapágy"
+date:   2012-09-14 00:00:00
+categories: cestování
+---
+
+Původní plán pořídit výlet co nejlevněji se nám moc nepodařil, i když jsme nakupovali last minute a údajně dostali 40% slevu. I tak to celé stálo balík, s nímž by jinak člověk vyžil v Ekvádoru klidně dva měsíce, místo těch pěti dní na Galapágách. Ale stálo to za to.
+
+Ubytovaní a dopravu zajišťoval luxusní katamaran, jídlo bylo výborné a výlety naprosto super. Tolik zvířat na jednom místě ve volné přirodě už asi nikdy v životě neuvidím (leda by klaplo nějaké to safari v Africe?). Párkrát jsme byli i šnorchlovat a kromě spousty různě barevných ryb jsme viděli pod vodou i želvy a lvouny. Ti byli naštěstí ještě mladí, takže místo aby si bránili teritorium, tak nás jen zvědavě okukovali a zkoušeli, jestli se s nimi nebudeme potápět.
+
+No bylo to prostě intenzivní, fotky hromady zvířátek následují :).
+
+[Fotogalerie]
+
+[Fotogalerie]: https://github.com/mojombo/jekyll

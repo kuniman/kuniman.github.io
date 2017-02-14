@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Medellín"
+date:   2013-01-16 00:00:00
+categories: cestování
+---
+
+Město věčného jara, jak ho místní přezdívají. Město na které mě místní hrdí rodáci, které jsem potkal po cestě upozorňovali a tvrdili, že ho musím navštívit. Rodiště nechvalně proslulého kokainového krále Pabla Escobara a známého malíře a sochaře Fernanda Botera. Také město, kde jsem poprvé za tuto cestu Jižní Amerikou viděl opravdové metro. Nakonec město jako každé druhé, ne nezajímavé, ale také, alespoň pro mě, ničím vyčnívající.
+
+Největším zážitkem tak asi byla návštěva ohromného monolitu nazývaného El Peňol nebo také La Piedra. Nedal jsem na varovná znamení, že zastávka La Piedra je dál než zastávka El Peňol a vystoupil v El Peňolu. A pak jsem si to v poledním vedru ťapal 12 kilometrů po silnici a sledoval, jak se monolit pomalu přibližuje. Aspoň že na startu prodávali zmrzlinu a v cíli čerstvé ovocné džusy.
+
+[Fotogalerie]
+
+[Fotogalerie]: https://github.com/mojombo/jekyll

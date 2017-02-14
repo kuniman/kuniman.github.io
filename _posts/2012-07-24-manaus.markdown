@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "S bramborami a rajskými do Manausu"
+date:   2012-07-24 00:00:00
+categories: cestování
+---
+
+Předem se omlouvám za délku následujícího textu, ale šest dní na lodi je dlouhá doba a člověk musí nějak zabíjet čas :).
+
+Z Vale do Capao jsem vyrazil ve čtvtek večer s tím, že do neděle bych byl rád v Belému. Varianta A byla přímý autobus z Feira da Santana, který už ale byl ve čtvrtek ráno ze dvou třetin obsazený (což jsem si našel přes internet, koupit bez zdejších dokladů to ale nešlo). Varianta B znamenala přesun do Salvadoru a hledání levné last minute leteky. Do Feiry jsem dorazil ve čtyři ráno, přepážka měla otvírat v sedm. Poté co konečně, jako poslední, totálně neschopný prodejce jízdenek na můj vysněný autobus se zpožděním dorazil, udělal si kafíčko, vybojoval vítěznou bitvu s počítačem a tiskárnou a obsloužil dalšího přede mnou trpělivě čekajícího chudáka, jsem se dozvěděl … že zbývají poslední dvě místa. Heuréka. Následné dvanáctihodinové čekání na příjezd už nic nemohlo zkazit, hlavně poté, co jsem na terminálu chytil free wifi :). A pak už hupky dupky a za dalších 34 hodin jsem byl v cíli.
+
+Belém je prostě další velké brazilské město a jelikož muzejní mánie mě ještě nechytla, tak jsem si tu hlavně zařizoval první část cesty po Amazonce a sháněl potřebné vybavení (hamaku, provazy) a zásoby (doporučují vlastní vodu a zásobu sladkostí a ovoce). Na tak dlouhou cestu jsem se rozhodl vybavit alespoň nějakou literaturou a tak jsem se stal hrdým majitelem titulu The Labours of Herkules od Agaty Chritie. 256 stránek sice neslibovalo moc dlouhou zábavu, ale bylo to v angličtině a po zjištění, že jde o sbírku 12 povídek a stanovení limitu 2 povídek denně to vypadalo jako ucházející zásoba. Nakonec se bohužel ukázalo, že kniha je natolik čtivá, že třetí den už nic ke čtení nezbývalo. Každopádně je docela vtipná, založená na zajímavém nápadu a jedna z povídek možná inspirovala film Vrtěti psem.
+
+Po dvou dnech bylo vyřízeno a sehnáno a tak jsem se podle rady průvodce nalodil několik hodin před vyplutím, abych sehnal ideální místo pro hamaku. Ve vyšším patře ze dvou, které jsou pro hamaky určené, prý přibližně uprostřed. Ok, dorazil jsem opravdu včas a tak zabrat místo podle těhle instrukcí nebyl problém. Jen mi trochu vrtalo hlavou, proč je kolem mě jen pár turistů a Brazilců očividně jedoucích lodí poprvé, když ve spodním patře už jsou skoro všechna místa obsazená. Vysvětlení, ke kterému jsme došli se záhy dorazivším francouzským párem, že místní nečtou průvodce od Lonely Planet sice znělo logicky, ale tak nějak mu nikdo moc nevěřil.
+
+První problémek se ukázal ještě před vyplutím, když se objevila obsluha do té doby za zdí maskovaného baru a vytáhla zpoza něj dva ohromné reproduktory (odhadovaná vzdálenost od hamaky: 7m, provozní doba: cca 8:30 – nevím, vždycky jsem dřív usnul, praxe ze salvadorského karnevalu se hodila). Další záludností bylo, že na našem patře výrazně víc foukalo a vůbec se měnilo klima podle denní či noční doby. Naštěstí po třech dnech jsme dorazili do Santarému, kde hodně lidí vystupovalo, takže nebyl problém rychle obsadit jedno z uvolněných míst a spokojeně se zubit na nově nastupující.
+
+Až tady jsem si také uvědomil, jak moc pravdivý je vtípek o oblíbenosti práce a pohledu na ni. Hlavně když jde o pohled z houpající se hamaky v některém z přístavů na Amazonce a člověk za zvuků pohodové brazilské muziky pozoruje vykládání a nakládání lodi. K tomu dobrá kniha a akurátně vychlazený nápoj a opravdu to nemá chybu :).
+
+Cesta do Manausu měla trvat pět dní, ale drželi jsme se zdejší dobré tradice nic neuspěchat a tak jsme dorazili asi o 20 hodin později. Ale jak se říká, vše špatné je k něčemu dobré a tak jsme si díky tomu mohli za světla vychutnat soutok dvou řek (Rio Negro a Rio Solimoes), z nichž každá má jinou barvu a než se smísí a vytvoří gigantický tok zvaný Amazonka, plynou několik kilometrů vedle sebe s jasně viditelnou hranicí mezi nimi. S Amazonkou jsem se tak na čas rozloučil, dál budu pokračovat po Rio Solimoes a na Amazonku se vrátím zas až v Peru, kde tak dávají jasně najevo, kde že to ten veletok vlastně začíná :).
+
+Zítra mě čeká nalodění na další plovoucí potvoru (tentokrát asi už pouze s pasažéry a bez nákladu) a pak týden na palubě. Následujícím cílem je Tabatinga, městečko kde se setkávají hranice Brazílie, Kolumbie a Peru.
+
+K fotkám: prvních pár je ze zooparku v Belému, zbytek pak z cesty po Amazonce. Kluci na loďkách okukovali, zda jim někdo něco z lodi nehodí, je asi zvykem se tak zbavovat něpotřebného oblečení. Navigace v noci tu probíhala výhradně pomocí zkoumání břehů světlometem :).
+
+[Fotogalerie]
+
+[Fotogalerie]: https://github.com/mojombo/jekyll

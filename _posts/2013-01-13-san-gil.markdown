@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Adrenalinové San Gil"
+date:   2013-01-13 00:00:00
+categories: cestování
+---
+
+Do San Gil jsem se vydal na doporučení kolumbijského průvodce, kterého jsem potkal ve Villa de Leyva. Ten tvrdil, že návštěva městečka Barichara se prostě nemůže propást a výlet po staré královské cestě do blízké vesnice Guane je prý jedinečný. No proč ne? Zas tak daleko to nebylo. Takže místo zpátky do Bogoty jsem se vydal dál na sever a strávil 24 hodin v San Gil a jeho okolí.
+
+Město samo o sobě je cílem hlavně pro adrenalinové šílence, protože v oblasti je sposta atrakcí typu paragliding, white-water rafting nebo slaňování vodopádů. Tedy nic moc pro mě :). Já jsem podniknul ranní přesun do Barichary a výlet po staré královské cestě. A v cíli jsem při čekání na autobus vyzkoušel všechny druhy domácí zmrzliny, co měli na skladě. Pche, adrenalin.
+
+Odpoledne jsem okouknul blízké vodopády a večer už jsem zas seděl na terminálu a čekal na noční autobus abych se přesunul zpátky do Bogoty a konečně se pohnul zas o nějaký kus dál, na poslední zastávku před karibským pobřežím, sluncem a plážemi, do Medellínu.
+
+[Fotogalerie]
+
+[Fotogalerie]: https://github.com/mojombo/jekyll

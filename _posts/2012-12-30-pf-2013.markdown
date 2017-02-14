@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PF 2013"
+date:   2012-12-30 00:00:00
+categories: cestování
+---
+
+![PF 2013](http://lh4.ggpht.com/-1cNZtGKYm3E/VL5EXFHVo9I/AAAAAAAAC1Y/CvzaeTxtwy8/w400-o/pf2013_02.jpg){:class="img-responsive"}
