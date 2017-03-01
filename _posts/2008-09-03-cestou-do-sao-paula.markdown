@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cestou do Sao Paula ..."
+date:   2008-09-03 10:36:03
+categories: cestování
+---
+
+... se v postatě nic zvláštního nestalo :). Na Heathrow jsem dorazil bez problémů a včas (naštěstí jsem si všimnul, že sedím v metru co záhy zahybá někam jinam a přestoupil) i se svými nadměrnými zavazadly a hned jsem si to namířil na check-in. Po předchozí zkušenosti z Prahy (s British Airways) kde mi můj šestadvacetikilový batoh jen zvážili a připlácli na něj nálepku "Heavy" jsem doufal, že Swiss Air bude mít podobně laxní přistup. Komentáře, jak někdo s lowcost aerolinkami platil pět liber za kilo navíc, sice byly trochu znepokojivé, ale Swiss Air přece není lowcost a přinejhorším 35 liber není vzhledem k ceně letenky (720 liber) zas tak moc. Cha cha. Swiss Air opravdu není lowcost. Platí se u něj 39 liber za kilo (no dobře, taky jsem možná letěl dál). Malou útěchou mi alespoň bylo, že slečna za přepážkou měla asi trochu slitování a naúčtovala mi jen čtyři kila místo sedmi. A nezvážila mi příruční zavazadlo. Můj soused v letadle mi pak poradil, že je lepší sehnat si letenku s limitem na počet zavazadel a ne na váhu, tak snad příště.
+
+V Zurichu jsem pak byl za slabou hoďku a během chvilky už jsem stál u další odbavovací kontroly. Rutinně jsem naházel všechno železo do vaničky, vyndal notebooka z báglu a všechno to poslal pod rentgen. Rámem jsem se už naučil procházet bez pípání a ani tady to nebyla výjimka. Prostě klasika. Proto mě pak trochu zarazil požadavek obsluhy, ať se hezky vrátím s báglem zpátky a vyndám z něj všechnu elektroniku. Co to blbnou? Vždyť jsem s tím samým báglem už prošel přes Ruzyni a Heathrow. Taková pruda. Trochu mě aspoň uklidnil udivený výraz celníka, když jsem z batohu začal sypat všechny ty dobíječky, kabely, foťáky atd. Když jsem pak pod rentgen poslal skoro prázdný batoh, vytáhli z něj, k mému velkému překvapení, zavírací nůž. S pojistkou. Samozřejmě můj. Poslat ho bohužel nešlo, takže jsem mu jen smutně zamával, narval všechno zpátky do báglu, naposledy si ho vyfotil odpočívající mezi další hromadou švýcaráků, pár nůžkama a kleštěma(???) a šel jsem hledat tu správnou bránu. To už se mi naštěstí bez dalších příhod podařilo a tak jsem nakonec spokojeně obsadil své místo u okýnka a vyrazil konečně správným směrem. Na Sao Paulo. A tam jsem po jedenácti hodinách letu, dvou filmech, večeři, snídani a troše spánku nakonec opravdu dorazil.
+
+Co následovalo dál, to už je zas jiná historie ... :).
