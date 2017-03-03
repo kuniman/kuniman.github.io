@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "PF 2005"
+date:   2004-12-30 15:20:02
+categories: blog
+---
+
+Všem trpělivým návštěvníkům mých stránek přeji vše nejlepší do nového roku 2005 a ať se jim daří vše na co sáhnou.
+
+TODO TK
+<img src='images/zpravy/pf_2005.jpg' border=0>

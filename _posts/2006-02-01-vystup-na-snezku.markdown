@@ -2,7 +2,7 @@
 layout: post
 title:  "Expedice na nejvyšší horu Giant Mountains"
 date:   2006-02-01 11:15:10
-categories: cestování, hory
+categories: hory
 ---
 
 Dne 29. ledna 2006 jsme se rozhodli pro další pokus o dobytí nejvyšší hory nejvyššího pohoří jednoho malého středoevropského státu. Schneekoppe. Předchozí tři pokusy podniknuté v uplynulých dvou letech, byly díky rozmarům počasí odsouzeny k nezdaru. Ranní slunce ale slibovalo pěkné počasí a tak jsme vyrazili domorodým autobusem do osady Border huts. Odtud začal náš výstup. Již tradričně se nám podařilo bez problémů proniknout až na Deer shed, odkud jsme po krátkém odpočinku začali druhou část výstupu.

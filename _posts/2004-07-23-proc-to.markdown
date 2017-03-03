@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Proč to?"
+date:   2004-07-23 09:43:45
+categories: cestování
+---
+
+Tyhle stránky jsou pokusem založit jednoduchý informační server, kam půjde cpát fotky, které jsem nafotil a psát k nim případně nějaké krátké zprávy. V blízké budoucnosti by se tu měly například objevit nějaké věci z naší plánované cesty do Portugalska. Uvidíme jak budeme mít přístup k internetu.
+
+Zatím veškeré materiály co jsou tu kolem, slouží pro otestování funkčnosti. Včetně této zprávy ;).
