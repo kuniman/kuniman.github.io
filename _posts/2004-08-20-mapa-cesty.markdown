@@ -7,5 +7,4 @@ categories: cestování
 
 Tak tohle je mapa celého našeho putování po předchozí tři týdny.
 
-TODO TK
-<p><a href='images/zpravy/Portugal04.jpg'><img src='images/zpravy/Portugal04_small.jpg' border='0'></a>
+![Mapa](https://lh3.googleusercontent.com/Jusrm97kDRj9-ZtnMQMEdijqfbcl1wAEt1YCEtuaOTBoYuP2UPen7u0rF8U8NT18Ofq_mTq8C6wj38aJRIzNM8apjntJaRNF-zHdhwRAKUQSs8XFZJuqqxklj4RY0obj_PXslApbsBN8g0M9qNgf4Ht-FPVWiTWQWZMKWpndqf4Wg20CpDkG12n3_hdl57LJaO3r_XXpQ4jcjbMUdHPMCVzhTcSsTGEckPYsRkKK5slJTVnqbJOEMGMCwOb5-O1ghtIaBoyZ7QhnVqUylz5fi_lFwAkYZ2yd2ZGGO1cm7ezYr7ro-4hE9ReK0Q5sMkZruU7yCkelQI-wzsOtsTZaO2Ym44BUkf8hOt-64S23p-9_bCi0AoACVadFixYA6Sc1HP465SsdgwMyHDpuwI0pFVzPe9I52HzoRJPviNjPUbSYk_JPtPigTtpbNWeVKSgFoh14TZ1TQIdphFlCWASAT3TFtBteaejDMFvkfM5XlHI_p9qqkANmErvOzFvpq4xmFUDyXslXxNixm3ICzzB97SDu-nhCji1Stj-5BUxvIOqUVqiivxxMMQuR1v64YCav38KUE0j9rj5_h9BXsQILbXs0uHIE9IOa94OSmV_ic6Ekgk66=w800-h600-no){:class="img-responsive"}

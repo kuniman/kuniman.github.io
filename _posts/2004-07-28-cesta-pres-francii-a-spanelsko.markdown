@@ -10,4 +10,4 @@ Kdyz jsme se rano probudili, svitilo nadherne slunicko a tak jsme se rozhodli je
 
 Jakmile jsme vjeli do Spanelska, okamzite jsme naladili v radiu spanelskou muziku a nadsene zamirili do Viga. Jelikoz neplacenych dalnic je ve Spanelsku podstatne vic nez ve Francii, cesta docela utikala a v pondeli v pet rano uz jsme spinkali v parciku na okraji Viga.
 
-No a jelikoz za chvilicku mame staz pred menzou, tak to tu ukoncim a dalsi napisu zas priste. Z Viga vas zdravi K&S&T&T.
+No a jelikoz za chvilicku mame sraz pred menzou, tak to tu ukoncim a dalsi napisu zas priste. Z Viga vas zdravi K&S&T&T.
