@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "23.7.-6.8.2004 - Prvnich ctrnact dni ocima Tomasze"
+date:   2004-08-21 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9VXR0eDlDTGdxeVk' %}

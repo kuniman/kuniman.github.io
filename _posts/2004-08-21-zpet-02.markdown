@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "8.-12.8.2004 - Sevilla, Cordoba, Madrid, Barcelona"
+date:   2004-08-21 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9UmV6Z3dVVVdfbkk' %}

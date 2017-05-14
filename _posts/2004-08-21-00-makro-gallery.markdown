@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "18.07.2004 - Makro"
-date:   2008-08-21 13:41:54
+date:   2004-08-21 00:00:00
 categories: foto
 ---
 

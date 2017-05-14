@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "29.-30.7.2004 - Vigo, Spanelsko"
+date:   2004-08-21 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9WHBQOWtFdUFaSTA' %}

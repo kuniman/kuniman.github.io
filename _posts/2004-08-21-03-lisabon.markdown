@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "1.8.2004 - Lisabon, Portugalsko"
+date:   2004-08-21 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9RWxYUXl6UGdpS1k' %}
