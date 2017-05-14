@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "5.-11.03.2005 - Krkonoše, Malá Úpa"
+date:   2005-03-13 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9U0NWZ0RpWEdXaWM' %}

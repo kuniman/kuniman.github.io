@@ -10,3 +10,5 @@ Stejně jako v Praze a v Kostnici, i tady se o víkendu konal karneval (aka maso
 To jsou myslím kompletně všechny informace, co jsem tu o karnevalu zjistil.
 
 Většina normálních lidí jde na průvod jen tak, podívat se a pak vyrazit po hospodách. V převleku bývají většinou jen úplně malé děti a pak pár šílenců, jako např. my. Tak doufám, že mě nikdo nezabije, že jsem ty fotky publikoval :).
+
+{% include googlePhotosFotogallery.html galleryId='SqXc16HSyZ8KGSY77' %}

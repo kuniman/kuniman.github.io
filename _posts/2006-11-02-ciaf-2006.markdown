@@ -6,3 +6,5 @@ categories: cestování
 ---
 
 Fotky ze zářijové letecké show v Brně.
+
+{% include googlePhotosFotogallery.html galleryId='rQmw5XtcvmgwYzur7' %}

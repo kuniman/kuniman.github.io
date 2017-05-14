@@ -19,3 +19,7 @@ V Rakovníku jsme pak ještě bleskově zkoukli parní mašinku a fičeli jsme z
 
 Komentář další části výpravy:
 No ja bych jenom poopravil puvodni cast: "když se mi ve tmě nepodařilo trefit správnou cestu z nádraží" na "kdyz sem zase chtel perlit jak se tady vsude vyznam, tak jsem dovedl celou vypravu po tme do naprosteho neznama! Museli jsme po spickach prochazet Narexem (s narvanyma krosnama na zadech) abychom tam neobudili vratneho, prodirat se pak bodlavym houstim v kratasech a hledat jak se dostat na druhou stranu dalnice. A to uz nemluvim o particce ozralych typku kteri s nama jeli z Prahy vlakem, a nez nase vyprava 'dorazila' konecne do Zdic, tak ona particka uz tam davno sedela vesele u piva ... "
+
+{% include googlePhotosFotogallery.html galleryId='cBKmpVkkgMMopfHg9' %}
+A fotky od Standy
+{% include googlePhotosFotogallery.html galleryId='vcKzq153Na53vBtq9' %} 

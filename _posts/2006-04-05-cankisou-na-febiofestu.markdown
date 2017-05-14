@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Pár fotek kapelky Čankišou z hudební části Febiofestu.
+
+{% include googlePhotosFotogallery.html galleryId='892DTHsDAbAwfSC49' %}

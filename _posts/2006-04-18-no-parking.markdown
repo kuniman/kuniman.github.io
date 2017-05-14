@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Zase několik fotek vyhrabaných po urgencích z archivu :).
+
+{% include googlePhotosFotogallery.html galleryId='SA9JwLJLcJaqGkyX9' %}

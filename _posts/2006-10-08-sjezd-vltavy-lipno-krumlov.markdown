@@ -6,3 +6,5 @@ categories: cestování
 ---
 
 A den po návratu ze Španělska jsme vyrazili na vodu ...
+
+{% include googlePhotosFotogallery.html galleryId='8ASubQGV4prnfem39' %}

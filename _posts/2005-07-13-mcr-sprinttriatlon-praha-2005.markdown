@@ -6,3 +6,5 @@ categories: fotoakce
 ---
 
 Pár fotek ze sobotního sprinttriatlonu v centru Prahy.
+
+{% include googlePhotosFotogallery.html galleryId='xtpz49isx9TrMtiD9' %}

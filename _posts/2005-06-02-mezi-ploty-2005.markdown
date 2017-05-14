@@ -5,4 +5,6 @@ date:   2005-06-02 21:26:47
 categories: hudba
 ---
 
-Výběr z fotek co jsem nacvakal v neděli v bohnické léčebně.
+Výběr z fotek co jsem nacvakal v neděli v bohnické 
+
+{% include googlePhotosFotogallery.html galleryId='uf8cPYi3de2SnuLg8' %}

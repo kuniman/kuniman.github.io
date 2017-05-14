@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Několik fotek z prvního koncertu v polovině února v havlíčkobrodském [klubu Effect](http://www.effectmusic.cz).
+
+{% include googlePhotosFotogallery.html galleryId='9ZR7gA9sn5mJujCc9' %}

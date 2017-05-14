@@ -8,3 +8,5 @@ categories: cestování
 Malá vesnice cca 50 kilometrů od Tarragony směrem do středu Španělska. Podle wikipedie má kořeny už v době bronzové a během obsazení Španělska Araby zde pravděpodobně byla silná komunita, kterou se podařilo vystrnadit až poté, co byla ze všech stran obklíčena (to je jeden pohled na španělskou historii).
 
 V současnosti je asi nejvíce známá jako ráj horolezců a tak jsme se tam vypravili minulý víkend trénovat. Já focení, zbytek lezeni :). Jelikož jsem ještě v sobotu v šest ráno vysazoval poslední návštěvu na letišti, tak jsem měl spoustu času na to, dorazit na místo určení v rozumnou hodinu. Proto jsem místo nejrychlejší cesty zvolil nejhezčí a myslím, že to stálo za to.
+
+{% include googlePhotosFotogallery.html galleryId='tdWJxJkbfeiD6MZt9' %}

@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Fotky ze sobotního koncertu Žabího Majera v Říčanech.
+
+{% include googlePhotosFotogallery.html galleryId='aM6HD5DAbHFYH1cx5' %}

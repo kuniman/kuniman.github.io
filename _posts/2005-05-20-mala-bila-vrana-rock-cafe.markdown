@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Pár fotek z úterního koncertu Malé Bílé Vrány v Rock Cafe. Byla tam tma a mrskali se strasne rychle :).
+
+{% include googlePhotosFotogallery.html galleryId='A4GnzHNqbDq4V1uJ7' %}

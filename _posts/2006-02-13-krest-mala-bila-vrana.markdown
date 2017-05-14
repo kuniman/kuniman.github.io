@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Pravda, poněkud postarší. Křest byl už minulý rok v prosinci ...
+
+{% include googlePhotosFotogallery.html galleryId='76ienAGr8SbxtKbL7' %}

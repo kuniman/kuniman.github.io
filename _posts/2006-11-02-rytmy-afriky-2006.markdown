@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Jednodenní festival Rytmy Afriky se konal 27.10., tentokát v klubu Retro. Obrazová dokumentace tady, podrobnější info [viz stránky](http://rytmyafriky.afro.cz/) festivalu :).
+
+{% include googlePhotosFotogallery.html galleryId='Yo2WEaMQx4BsmpAL6' %}

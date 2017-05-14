@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "08.11.2004 - Roxy, Banana"
+date:   2004-11-09 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9azBfQ1ZkTlhQRHc' %}

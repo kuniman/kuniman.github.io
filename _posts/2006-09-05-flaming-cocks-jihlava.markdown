@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Současně se Žabákama zahrála před prázdninama v Jihlavě kapelka Flaming Cocks. Strašní showmani, takže jsem neodolal a nacvakal pár fotek.
+
+{% include googlePhotosFotogallery.html galleryId='6xo8b5frsBniV8eL7' %}

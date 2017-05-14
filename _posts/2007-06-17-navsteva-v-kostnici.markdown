@@ -14,3 +14,5 @@ V sobotu jsme pak se sestřenkou vyrazili na vyhlídkový výlet lodí do Lindau
 V neděli (dneska) jsme pak všichni tři jen rekreačně vyrazili na trochu koupaní a slunění k jezeru. No a pote už hop do vlaku, stvořit tenhle text a na letišti v Zurichu ho publikovat.
 
 P.S. Tak v Zurichu výraz veřejný hotspot ještě neznamená zadarmo. Takže publikuju až z domova.
+
+{% include googlePhotosFotogallery.html galleryId='45sNkXecyj5pAAmB6' %}

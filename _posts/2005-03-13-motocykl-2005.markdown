@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "13.03.2005 - Motocykl 2005, Výstaviště, Praha"
+date:   2005-03-14 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9V2JucHNRN1hfZW8' %}

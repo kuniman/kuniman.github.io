@@ -6,3 +6,5 @@ categories: hudba
 ---
 
 Něco málo fotek z prvního pražského koncertu pro tenhle rok :).
+
+{% include googlePhotosFotogallery.html galleryId='AWg2YF1ZnSyJnd487' %}

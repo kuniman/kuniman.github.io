@@ -10,3 +10,5 @@ Jelikož se tenhle víkend jela Velká cena Španělska F1, tak do Barcelony tak
 Velká většina fotek je z freesylové show, kterou tam předváděl [tenhle týpek](http://www.chrispfeiffer.com/) a je fakt, že občas to vypadalo, jako že ta motorka nic neváží a on tam s ní jen tak zlehka mává. Pak tu ještě měli formuli BMW se zdejší nadějí do budoucnosti a F1 se kterou snad jeli závod v Malajsii. Tu když odpíchli, tak to byl dost pěkný rachot :). No a zbytek fotek jsou detaily aut a motorek.
 
 Doufám, když jsem k tomu napsal takový dlouhý komentář, že vás ty fotky aspoň trochu zaujmou ;).
+
+{% include googlePhotosFotogallery.html galleryId='AashW1dtk2js8ojK9' %}

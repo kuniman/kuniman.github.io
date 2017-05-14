@@ -6,3 +6,5 @@ categories: cestování
 ---
 
 Moje fotografická dokumentace. Brácha tu svoji snad také časem pověsí na stuhu.
+
+{% include googlePhotosFotogallery.html galleryId='4pck7cTgAZgNUL3w9' %}

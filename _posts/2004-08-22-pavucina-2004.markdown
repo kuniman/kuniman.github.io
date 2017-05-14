@@ -10,3 +10,5 @@ V pátek měli Žabáci koncert a tak mi to nedalo a také jsem vyrazil. Tentokr
 Koncert proběhl bez problémů a nekonalo se ani obvyklé žbrblání, že tentokrát to stálo za ..., takže akci lze zhodnotit jako velmi úspěšnou.
 
 Jo a fotky jsou v galerii.
+
+{% include googlePhotosFotogallery.html galleryId='oPpbLrvfPzc6Cub47' %}

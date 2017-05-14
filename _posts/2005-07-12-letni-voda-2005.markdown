@@ -6,3 +6,5 @@ categories: cestování
 ---
 
 Pár fotkek z dvoudenního sjezdu Vltavy z Vyššího Brodu do Zlaté Koruny.
+
+{% include googlePhotosFotogallery.html galleryId='jrxxUdmjn14oDGvF7' %}

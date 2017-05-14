@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "03.02.2005 - Vagón, BBP"
+date:   2005-02-04 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9UGNwSlZfazFGcEU' %}

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "19.10.2004 - Rock Café, ZPRAKU!"
+date:   2004-10-20 00:00:00
+categories: foto
+---
+
+{% include googleDriveGallery.html galleryId='0Byxa5k-JbbS9TXpqZU1HN0Zybzg' %}

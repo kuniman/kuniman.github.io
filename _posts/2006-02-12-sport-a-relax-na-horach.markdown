@@ -6,3 +6,5 @@ categories: hory
 ---
 
 Fotodokumentace z týdeního lyžování v okolí Pece pod Snězkou.
+
+{% include googlePhotosFotogallery.html galleryId='DrStds7GizFKyDoN9' %}
